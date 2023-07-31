@@ -1,0 +1,1 @@
+@emailjs/browser @emotion/react @emotion/styled @mui/material @mui/styles lottie-react react-fast-marquee react-helmet react-icons react-reveal react-router-dom react-router-hash-link react-slick react-typed slick-carousel validator
